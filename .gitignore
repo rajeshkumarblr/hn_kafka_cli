@@ -1,0 +1,7 @@
+target/
+*.log
+.idea/
+*.class
+dependency-reduced-pom.xml
+manage_kafka.sh
+# Usually don't push secrets, but here we don't have many.
